@@ -1,0 +1,15 @@
+D:\game_development\Items\JWorld\JWorld\bin\Debug\net7.0\JWorld.exe
+D:\game_development\Items\JWorld\JWorld\bin\Debug\net7.0\JWorld.deps.json
+D:\game_development\Items\JWorld\JWorld\bin\Debug\net7.0\JWorld.runtimeconfig.json
+D:\game_development\Items\JWorld\JWorld\bin\Debug\net7.0\JWorld.dll
+D:\game_development\Items\JWorld\JWorld\bin\Debug\net7.0\JWorld.pdb
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.csproj.AssemblyReference.cache
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.AssemblyInfoInputs.cache
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.AssemblyInfo.cs
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.csproj.CoreCompileInputs.cache
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.dll
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\refint\JWorld.dll
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.pdb
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\JWorld.genruntimeconfig.cache
+D:\game_development\Items\JWorld\JWorld\obj\Debug\net7.0\ref\JWorld.dll
